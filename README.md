@@ -8,3 +8,5 @@ Welcome to my collection of data analysis projects! In this repository, you'll f
 2. [Baylor Data Science Poster Presentation](https://github.com/jasminejl/Python-Data-Analysis/blob/main/Jordan-Lake_Severson_Poster.pdf)
    - The UCI Adult Census dataset (1994) serves as a valuable resource for understanding the socioeconomic landscape and analyzing the complexities of income. This dataset provides a comprehensive array of demographic attributes, offering insights into the factors influencing income levels. Our study utilizes this dataset to delve into possible predictors of income disparity and examine underlying trends.
 
+3. [California Housing K-Means Clustering Analysis](
+
