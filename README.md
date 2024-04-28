@@ -10,4 +10,9 @@ Welcome to my collection of data analysis projects! In this repository, you'll f
 
 3. [California Housing K-Means Clustering Analysis](https://github.com/jasminejl/Python-Data-Analysis/blob/main/California%20Housing%20Prices%20K-Means%20Clustering%20Analysis%20(1).ipynb)
    - This data analysis project offers a comprehensive exploration of the California housing market, unveiling nuanced spatial and socioeconomic dynamics through K-means clustering. By identifying distinct clusters and their characteristics, the analysis equips stakeholders with actionable insights to inform strategic decisions in real estate investment, urban planning, economic development, and business expansion. By leveraging these findings, stakeholders can navigate the multifaceted landscape of the California housing market with confidence, optimizing resource allocation, fostering equitable growth, and capitalizing on emerging opportunities for sustainable development and prosperity.
+  
+4. [Bank Marketing Persuasive Analysis](https://github.com/jasminejl/Python-Data-Analysis/blob/main/BankMarketing-2-1-2%20(1).ipynb)
+   - The analysis focuses on understanding the dynamics of direct marketing campaigns within a Portuguese banking institution, using a Bank Marketing Dataset. The goal is to explore factors influencing clients' decisions to subscribe to term deposits, a critical financial product. Objectives include ensuring data accuracy, predicting subscription using the K-Nearest Neighbors algorithm, visualizing demographic and marketing factors affecting subscription likelihood, and extracting actionable insights for strategic decisions like targeted customer segmentation and personalized marketing campaigns. The aim is to enhance customer satisfaction, drive business success, and solidify the institution's industry leadership.
+
+
 
