@@ -16,6 +16,6 @@ Welcome to my collection of data analysis projects! In this repository, you'll f
 
 
 5. [Intro to Data Science Final Project: IMDb Analysis](https://github.com/jasminejl/Python-Data-Analysis/blob/main/finalprojectintro.pdf)
-   - . In this study, we have presented findings derived from a comprehensive analysis of IMDb data, showing key trends in the film industry. “IMDb (‘Internet Movie Database’) is the world’s most popular and authoritative source for
+   - In this study, we have presented findings derived from a comprehensive analysis of IMDb data, showing key trends in the film industry. “IMDb (‘Internet Movie Database’) is the world’s most popular and authoritative source for
 movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows (IMDb 2024).” Over the years, we observed a significant decrease in average IMDb ratings, accompanied by a convergence towards a narrower range of scores. Additionally, average film runtimes have also converged. Our analysis further reveals a general positive relationship between IMDb ratings and box office earnings, as well as between film runtime and IMDb ratings. Overall, this may suggest that evolving audience preferences and
 changes in filmmaking practices may be influencing these trends. These findings offer valuable insights for stakeholders, suggesting optimized runtime decisions aligned with audience preferences, effective marketing strategies leveraging IMDb ratings and box office correlations, and further exploration of industry dynamics and trends.
