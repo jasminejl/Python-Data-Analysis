@@ -1,4 +1,0 @@
-mysql_connector_python
-flask
-pandas
-os
